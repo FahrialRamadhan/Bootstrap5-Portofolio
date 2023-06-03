@@ -3,7 +3,7 @@
  
 Mencoba Membuat Webiste dengan menggunakan Bootstrap5
 
-[url=https://postimg.cc/sv7Syspr][img]https://i.postimg.cc/sv7Syspr/proto1.png[/img][/url]
+[![proto1.png](https://i.postimg.cc/02HCYNjb/proto1.png)](https://postimg.cc/sv7Syspr)
 
 SOURCE CODE BY WPU
 
